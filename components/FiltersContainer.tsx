@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 
 import Button from './Button';
-import Separator from './Separator';
 
 const FilterContainer = styled.div`
   display: flex;
@@ -10,21 +9,23 @@ const FilterContainer = styled.div`
   padding: 5px 15px;
   margin-bottom: 40px;
   align-items: center;
+  font-family: Roboto, sans-serif; 
+  border-radius: 8px;
+  font-size: 16px;
 `;
 
 const FilterTextWrapper = styled.div`
-  padding-right: 10px;
+  margin-right: 37px;
 `;
 
-const ShowAllWrapper = styled.div`
-  padding-left: 10px;
-`;
 
 const ButtonWrapper = styled.div`
   display: flex;
   ${Button} {
     margin: 0 5px;
+    font-size: 16px;
   }
+  margin-right: 37px;
 `;
 
 export default () => {
@@ -36,7 +37,7 @@ export default () => {
         <Button secondary>Property type</Button>
         <Button secondary>Price</Button>
       </ButtonWrapper>
-      <ShowAllWrapper>Show all filters</ShowAllWrapper>
+      <div>Show all filters</div>
     </FilterContainer>
   );
 };

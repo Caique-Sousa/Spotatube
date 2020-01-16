@@ -48,6 +48,13 @@ const GlobalStyle = createGlobalStyle<IThemeWrapper>`
     font-weight: 700;
   }
 
+  @font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Light.ttf');
+    font-style: normal;
+    font-weight: normal;
+  }
+
   html, body, #__next {
     width: 100%;
     height: 100%;
