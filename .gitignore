@@ -1,0 +1,13 @@
+.history
+.vscode
+
+node_modules
+
+npm-debug.log
+
+dist
+webpack/webpack-assets.json
+development
+build
+
+yarn-error.log
