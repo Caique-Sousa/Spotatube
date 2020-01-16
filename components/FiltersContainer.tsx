@@ -7,7 +7,6 @@ import Separator from './Separator';
 const FilterContainer = styled.div`
   display: flex;
   background: ${props => props.theme.darkBlue};
-  width: 100%;
   padding: 5px 15px;
   margin-bottom: 40px;
   align-items: center;
@@ -24,7 +23,7 @@ const ShowAllWrapper = styled.div`
 const ButtonWrapper = styled.div`
   display: flex;
   ${Button} {
-    padding: 0 5px;
+    margin: 0 5px;
   }
 `;
 
