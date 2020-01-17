@@ -6,13 +6,13 @@ interface ICityCategoryContainer {
   city?:string;
   cityTitle?: string;
   numberOfTours?: number;
+  height?: string;
 }
 const CityCategoryContainer = styled.div`
   background-image: ${(props:ICityCategoryContainer) => `url('/images/${props.city.toLowerCase()}-city-category.jpg')`};
   background-size: cover;
   position: relative;
-  border: 1px solid black;
-  height: 350px;
+  height:${(props:ICityCategoryContainer) => props.height? props.height:'350px'};
 `;
 
 const ButtonContainer = styled.div`
@@ -40,9 +40,9 @@ line-height: 86px;
 
 const CityTitle = styled.span``;
 
-export default ({ cityTitle, city, numberOfTours }) => {
+export default ({ cityTitle, city, numberOfTours, height }) => {
   return (
-    <CityCategoryContainer city={city}>
+    <CityCategoryContainer city={city} height={height}>
       <ButtonContainer>
       <NumberOfToursButton numberOfTours={numberOfTours}></NumberOfToursButton>
       </ButtonContainer>
