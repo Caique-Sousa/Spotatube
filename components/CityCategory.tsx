@@ -2,11 +2,17 @@ import React from "react";
 import styled from "styled-components";
 import NumberOfToursButton from "./NumberOfToursButton";
 
+interface ICityCategoryContainer {
+  city?:string;
+  cityTitle?: string;
+  numberOfTours?: number;
+}
 const CityCategoryContainer = styled.div`
-  background-image: url("https://images.unsplash.com/photo-1579192360523-f8f0038c73fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80");
+  background-image: ${(props:ICityCategoryContainer) => `url('/images/${props.city.toLowerCase()}-city-category.jpg')`};
+  background-size: cover;
   position: relative;
   border: 1px solid black;
-  height: 200px;
+  height: 350px;
 `;
 
 const ButtonContainer = styled.div`
@@ -36,7 +42,7 @@ const CityTitle = styled.span``;
 
 export default ({ cityTitle, city, numberOfTours }) => {
   return (
-    <CityCategoryContainer>
+    <CityCategoryContainer city={city}>
       <ButtonContainer>
       <NumberOfToursButton numberOfTours={numberOfTours}></NumberOfToursButton>
       </ButtonContainer>

@@ -27,13 +27,6 @@ const cities = [
   }
 ];
 
-const VideoContainer = styled.div`
-  width: 100%;
-  height: 30vh;
-`;
-
-const CityCategoriesContainer = styled.div``;
-
 const RowContainer = styled.div`
   display: flex;
 `;
@@ -54,8 +47,7 @@ const CityColumn = styled.div`
 export default () => {
   return (
     <>
-      <VideoContainer></VideoContainer>
-      <CityCategoriesContainer>
+      <div>
         <RowContainer>
           <SimpleContainer>
             <Link href={`/${cities[0].city}`}>
@@ -115,7 +107,7 @@ export default () => {
             </CityColumn>
           </SimpleContainer>
         </RowContainer>
-      </CityCategoriesContainer>
+      </div>
     </>
   );
 };

@@ -14,21 +14,21 @@ const Video = styled.video`
 `;
 
 const VideoContainer = styled.div`
-  background-color: blue;
   height: 40vh;
   width: 100%;
 `;
 
 const Index = () => (
   <>
-    {/* <Video>
-      <source src="/videos/homecheckers-intro.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </Video> */}
-    {/* <VideoContainer></VideoContainer> */}
-    <HeaderContainer>
+      <HeaderContainer>
       <Header />
     </HeaderContainer>
+    <VideoContainer>
+    <Video>
+      <source src="/videos/homecheckers-intro.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </Video> 
+    </VideoContainer>
     <CityDisplay />
   </>
 );
