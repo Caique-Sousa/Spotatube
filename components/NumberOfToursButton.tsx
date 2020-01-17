@@ -1,11 +1,12 @@
 import React from "react";
 import styled from "styled-components";
 
-const Button = styled.button`
+const Button = styled.div`
   background-color: #002a4d;
   border-radius: 40px;
-  padding: 12px 24px;
+  padding: 9px 24px;
   color: white;
+  font-size: 16px;
 `;
 
 const TextIconContainer = styled.div`

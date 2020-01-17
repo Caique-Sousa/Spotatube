@@ -33,18 +33,18 @@ const cities = [
 
 const RowContainer = styled.div`
   display: flex;
-  padding-left: 20px;
-  margin-bottom: 29px;
+  padding-left: 14px;
+  margin-bottom: 18px;
 `;
 
 const SimpleContainer = styled.div`
   flex: 1;
-  margin-right: 20px;
+  margin-right: 4px;
 `;
 
 const DoubleContainer = styled.div`
   flex: 2;
-  margin-right: 20px;
+  margin-right: 4px;
 `;
 
 const CityColumn = styled.div`

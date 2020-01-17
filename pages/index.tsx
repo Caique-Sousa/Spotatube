@@ -5,7 +5,7 @@ import Header from "../components/Header";
 import CityDisplay from "../components/CityDisplay";
 
 const IndexContainer = styled.div`
-
+  background: #0f0101;
 `;
 
 const HeroContainer = styled.div`
@@ -19,12 +19,22 @@ const HeaderContainer = styled.div`
 
 const Video = styled.video`
   width: 100%;
-  height: 40vh;
+  height: 50vh;
+  object-fit: cover;
 `;
 
 const VideoContainer = styled.div`
-  height: 40vh;
+  height: 50vh;
   width: 100%;
+  position: relative;
+`;
+
+const FadeBackground = styled.div`
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: rgb(15,1,1);
+background: linear-gradient(90deg, rgba(15,1,1,1) 0%, rgba(15,1,1,1) 15%, rgba(255,255,255,0.0018382352941176405) 100%);
 `;
 
 const Index = () => (
@@ -34,7 +44,8 @@ const Index = () => (
         <Header />
       </HeaderContainer>
       <VideoContainer>
-        <Video>
+        <FadeBackground />
+        <Video autoPlay>
          <source src="/videos/homecheckers-intro.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </Video> 
