@@ -7,9 +7,11 @@ import Separator from './Separator';
 const FilterContainer = styled.div`
   display: flex;
   background: ${props => props.theme.darkBlue};
-  padding: 5px 15px;
+  padding: 7px 23px;
   margin-bottom: 40px;
   align-items: center;
+  width: fit-content;
+  border-radius: 8px;
 `;
 
 const FilterTextWrapper = styled.div`

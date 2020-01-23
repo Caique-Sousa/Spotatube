@@ -30,6 +30,24 @@ export const theme: ITheme = {
 };
 
 const GlobalStyle = createGlobalStyle<IThemeWrapper>`
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
   @font-face {
     font-family: 'GothamMedium';
     src: url('/fonts/Gotham-Medium.otf');
@@ -49,11 +67,14 @@ const GlobalStyle = createGlobalStyle<IThemeWrapper>`
   }
 
   html, body, #__next {
+    padding: 0;
+    margin: 0;
     width: 100%;
     height: 100%;
   }
 
   body {
+    background: ${props => props.theme.niceBlack}; 
     margin: 0 auto;
     color: ${props => props.theme.niceWhite}; 
     font-family: 'GothamMedium';

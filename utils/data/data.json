@@ -1,0 +1,1915 @@
+{
+  "apartments": [
+    {
+      "id": 382963,
+      "title": "Charming 2-bedroom flat to rent in Camden",
+      "type": "apartment",
+      "price": {
+        "price": 3210,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 3210,
+          "fixedPrice": 3210
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 3210,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "South Villas",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/-zauwqc6Oxw",
+          "videoTranscription": "",
+          "videoId": "-zauwqc6Oxw",
+          "name": "Charming 2-bedroom flat to rent in Camden",
+          "description": "**The homely heaven**\n\n_Because nothing is more welcoming than this_\n\n**Will I like it here?**\n\nIt would be hard not to.\n\nLooking for a stylish flat near Camden Town? \n\nYou've come to the right place.\n\n**Really? Tell me more...**\n\nYou will love the charming living room. It has carpeted floors, cool grey walls, and beautiful decor. There are comfy sofas for movie nights, and a dining table for meals. It's the perfect spot to relax after a long day.\n\nWe think it\u2019s ideal for an easy-going group looking for a little fun. Camden Town is a little over 15 minutes' away on foot, and is home to a huge range of trendy bars, shops and markets. The beautiful Caledonian Park is even closer.\n\n**Your top 3 reasons to live here:**\n\n- The living room is comfortable and beautifully decorated.\n- The kitchen and bathroom are sleek and modern.\n- You're just over 15 minutes' on foot from Camden Town.\n\n**But you need to know this...**\n\n- This flat is on the 1st floor of the building, which doesn't have an elevator \u2014 there's a little extra exercise for your day.\n\n**Your Home-checker, Jonatan, said:**\n\n_\u201cI loved this property. It\u2019s a really beautiful and modern property.\"_\n\n**Help me make up my mind...**\n\nThis is a charming 1st floor, 2-bedroom flat on South Villas, London. It boasts a stylish living room with beautifully welcoming furnishings, and a modern kitchen and bathroom.\n\nThis property is ideal for a fun-loving group or family looking for a laid-back spot close to the action. You can enjoy the peace of a residential area, near the vibrant Camden Town and Kentish Town.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/69c2b61b1734602c86b5a47dbc3c601ff4ee5911a0ab0daeb84c3ddf.jpg",
+          "uploadDate": "2019-12-10"
+        }
+      ],
+      "floorplans": {
+        "53b4ff79d107f1f428e06d61694fdc7b4b0257fd5d701317a0a622c5": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/53b4ff79d107f1f428e06d61694fdc7b4b0257fd5d701317a0a622c5.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 2,
+      "reaction": [
+        {
+          "emotion": 1,
+          "time": 23
+        },
+        {
+          "emotion": 1,
+          "time": 65
+        },
+        {
+          "emotion": 2,
+          "time": 99
+        },
+        {
+          "emotion": 1,
+          "time": 138
+        },
+        {
+          "emotion": 1,
+          "time": 175
+        },
+        {
+          "emotion": 2,
+          "time": 186
+        },
+        {
+          "emotion": 1,
+          "time": 200
+        },
+        {
+          "emotion": 1,
+          "time": 235
+        },
+        {
+          "emotion": 1,
+          "time": 308
+        }
+      ],
+      "roomsTimeLine": {
+        "youtubeId": "-zauwqc6Oxw",
+        "roomsTimeLine": [
+          {
+            "title": "Intro",
+            "imageUrl": "data/382963/hallway.jpg",
+            "videoTimeSeconds": 4
+          },
+          {
+            "title": "Bat...",
+            "imageUrl": "data/382963/bathroom.jpg",
+            "videoTimeSeconds": 43
+          },
+          {
+            "title": "Bedroom 2",
+            "imageUrl": "data/382963/bedroom_2.jpg",
+            "videoTimeSeconds": 87
+          },
+          {
+            "title": "Bedroom 1",
+            "imageUrl": "data/382963/bedroom_1.jpg",
+            "videoTimeSeconds": 128
+          },
+          {
+            "title": "Hallway",
+            "imageUrl": "data/382963/hallway.jpg",
+            "videoTimeSeconds": 181
+          },
+          {
+            "title": "Living Room",
+            "imageUrl": "data/382963/living_room.jpg",
+            "videoTimeSeconds": 191
+          },
+          {
+            "title": "Kitchen",
+            "imageUrl": "data/382963/kitchen.jpg",
+            "videoTimeSeconds": 241
+          },
+          {
+            "title": "Living Room",
+            "imageUrl": "data/382963/living_room.jpg",
+            "videoTimeSeconds": 304
+          },
+          {
+            "title": "End",
+            "imageUrl": "data/382963/hallway.jpg",
+            "videoTimeSeconds": 312
+          }
+        ]
+      }
+    },
+    {
+      "id": 216675,
+      "title": "Modern 2-bedroom apartment for rent in Lewisham",
+      "type": "apartment",
+      "price": {
+        "price": 1900,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1900,
+          "fixedPrice": 1900
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1900,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-02-10"
+        },
+        {
+          "from": "2020-04-27",
+          "to": "2020-05-31"
+        },
+        {
+          "from": "2020-09-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Algernon Rd, London SE 7TG, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/9q6CFJnV3vM",
+          "videoTranscription": "",
+          "videoId": "9q6CFJnV3vM",
+          "name": "Modern 2-bedroom apartment for rent in Lewisham",
+          "description": "This modern 2-bedroom apartment on Algernon Road in Lewisham is 70\u200am\u00b2 with large windows and spacious rooms. The kitchen is fully equipped, while the living area has a large sofa and a TV. There are two bathrooms available, one of which is an en-suite to the main bedroom. Each bedroom is fully furnished and has a large wardrobe. There is access to the balcony through the living area and each bedroom.\n\nThis apartment is located in a great, well-connected residential area. There are shops and restaurants nearby, along with a lovely park just 14-minutes walk from the apartment.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/b8e09bd92fe590b0e43152dccabe5d48de63e2a1bc200399f571a0fe.jpg",
+          "uploadDate": "2018-05-06"
+        }
+      ],
+      "floorplans": {
+        "ce9e85c678d3943b44601c117e4f30819b32429be83b60926fa1d08a": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/ce9e85c678d3943b44601c117e4f30819b32429be83b60926fa1d08a.jpg"
+      },
+      "homechecker": {
+        "id": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef",
+        "firstName": "Kamil",
+        "email": "kamil@collaborators.spotahome.com",
+        "profilePicture": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 2,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 143288,
+      "title": "Beautiful 1-bedroom apartment with breath-taking city views for rent in Battersea",
+      "type": "apartment",
+      "price": {
+        "price": 1500,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1500,
+          "fixedPrice": 1500
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1500,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2017-09-21"
+        },
+        {
+          "from": "2020-04-20",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Surrey Lane",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/GWWVn6mg3s0",
+          "videoTranscription": "",
+          "videoId": "GWWVn6mg3s0",
+          "name": "Beautiful 1-bedroom apartment with breath-taking city views for rent in Battersea",
+          "description": "This beautiful 1-bedroom apartment with breath-taking city views is located on the 9th floor with lifts in Battersea. The bedroom is simple and of decent size with a mirror, cupboards, bedside table, 2 single beds that can be pushed together to form a double bed. The bathroom has a toilet, heated towel rails and a shower over a bath. The living room has cabinets, shelving, sofa, TV and has the best views where you can see the London eye, Shard and London iconic buildings in the distant. It has large windows, so this lets in plenty of light. There are mirrors placed strategically around the room to create a feeling of space. The kitchen is fully equipped with kettle, toasters, microwave, gas cooking and washer/dryer.\n\nThis property is situated in a quiet neighborhood within walking distance of several restaurants and caf\u00e9s. You are super close to Battersea Park and the Thames river, where you can go for morning runs or evening walks along both these area. Grocery stores, pubs, restaurants and butchers are all located on Battersea bridge road which is a 5-minute walk from the apartment.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/67756783848dd75ef22f7781c6edc45b4f326bfc069cfe7c5bbc78b0.jpg",
+          "uploadDate": "2017-09-01"
+        }
+      ],
+      "floorplans": {
+        "21169853b553de447ee9d2df8d1094ca426fe95f2eba78b037dd9c2d": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/21169853b553de447ee9d2df8d1094ca426fe95f2eba78b037dd9c2d.jpg"
+      },
+      "homechecker": {
+        "id": "55f33b40-ca7c-4013-a820-4267d3dfb97e",
+        "firstName": "Theo",
+        "lastName": "Hewett (runner)",
+        "email": "theo.hewett@spotahome.com",
+        "profilePicture": "55f33b40-ca7c-4013-a820-4267d3dfb97e.jpg",
+        "cityId": "london",
+        "enabled": false,
+        "level": "D"
+      },
+      "numberOfRooms": 1,
+      "reaction": [
+        {
+          "emotion": 1,
+          "time": 23
+        },
+        {
+          "emotion": 1,
+          "time": 35
+        },
+        {
+          "emotion": 2,
+          "time": 49
+        },
+        {
+          "emotion": 1,
+          "time": 89
+        },
+        {
+          "emotion": 1,
+          "time": 110
+        },
+        {
+          "emotion": 2,
+          "time": 181
+        },
+        {
+          "emotion": 1,
+          "time": 222
+        }
+      ],
+      "roomsTimeLine": {
+        "roomsTimeLine": [
+          {
+            "title": "Start",
+            "imageUrl": "data/143288/living_room.png",
+            "videoTimeSeconds": 4
+          },
+          {
+            "title": "Bedroom - Closet",
+            "imageUrl": "data/143288/bedroom_closet.png",
+            "videoTimeSeconds": 33
+          },
+          {
+            "title": "Bedroom",
+            "imageUrl": "data/143288/bedroom.png",
+            "videoTimeSeconds": 50
+          },
+          {
+            "title": "Bathroom",
+            "imageUrl": "data/143288/bathroom.png",
+            "videoTimeSeconds": 106
+          },
+          {
+            "title": "Living Room",
+            "imageUrl": "data/143288/living_room.png",
+            "videoTimeSeconds": 121
+          },
+          {
+            "title": "Kitchen",
+            "imageUrl": "data/143288/kitchen.png",
+            "videoTimeSeconds": 178
+          },
+          {
+            "title": "End",
+            "imageUrl": "data/143288/living_room.png",
+            "videoTimeSeconds": 237
+          }
+        ]
+      }
+    },
+    {
+      "id": 224599,
+      "title": "Furnished studio flat to rent in West Ham",
+      "type": "apartment",
+      "price": {
+        "price": 850,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 850,
+          "fixedPrice": 850
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 850,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-05-02"
+        },
+        {
+          "from": "2021-01-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Barking Rd, London E13, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/bM26OVgImr4",
+          "videoTranscription": "",
+          "videoId": "bM26OVgImr4",
+          "name": "Furnished studio flat to rent in West Ham",
+          "description": "This studio flat for rent in West Ham is furnished with a bunk bed with 2 single beds, a couch, and a kitchenette. The kitchenette is equipped with a microwave, 2-burner stove, and a mini refrigerator. For storage, you have a chest of drawers and a large standalone wardrobe. There is wood flooring, a small window, and an en-suite bathroom. \n\nIn West Ham by the Upton Park Underground Station, you are in a district of East London. On Barking Road, you are just a few minutes' walk to everything you may need from fast food to pubs to hardware stores. Be sure to take time and explore because the district is known for its food markets and small vintage shops.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/5be2c35a0a050449701e11624cf46344f92df1443b217e8d9da1b7f0.jpg",
+          "uploadDate": "2018-06-04"
+        }
+      ],
+      "floorplans": {
+        "c3de648dfc4761bd95ae92c2cf4b66a7c1a86b7b32836ee515afb937": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/c3de648dfc4761bd95ae92c2cf4b66a7c1a86b7b32836ee515afb937.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 1,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 224794,
+      "title": "Rooms to rent in chic 3-bedroom apartment in Harlesden",
+      "type": "apartment",
+      "price": {
+        "price": 2200,
+        "monthlyPrice": {
+          "type": "byMonth",
+          "minimumPrice": 2200,
+          "pricesByMonth": {
+            "jan": 2200,
+            "feb": 2200,
+            "mar": 2300,
+            "apr": 2400,
+            "may": 2400,
+            "jun": 2500,
+            "jul": 3400,
+            "aug": 3400,
+            "sep": 3100,
+            "oct": 3000,
+            "nov": 2700,
+            "dec": 3100
+          }
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 2200,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-09-06"
+        },
+        {
+          "from": "2020-08-03",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Minet Ave, London NW10, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/FMOLtuxwQsA",
+          "videoTranscription": "",
+          "videoId": "FMOLtuxwQsA",
+          "name": "Rooms to rent in chic 3-bedroom apartment in Harlesden",
+          "description": "There are rooms to rent in this chic 3-bedroom, 1-bathroom apartment on Minet Avenue in Harlesden. The spacious, open-plan kitchen and living room is a great space to relax with your flatmates while you cook up a storm or catch up on your favourite TV shows. There are several modern appliances including an oven, microwave and full-sized refrigerator.\n\nAlthough this apartment is located a little outside the centre of London, there is still plenty to do nearby. If good food is your thing, there are plenty of restaurants within a 20-minute stroll. If shopping is more your speed, you'll be pleased to know there are a few shops within walking distance, and an IKEA within a 20-minute bus ride.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/e10068915f358f6d438e0b37f8c6138061c7e3db54a8e0b6ac699018.jpg",
+          "uploadDate": "2018-06-08"
+        }
+      ],
+      "floorplans": {
+        "693872786067a525063fe23a9a9125950585dae6f0f0ae25f176b98d": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/693872786067a525063fe23a9a9125950585dae6f0f0ae25f176b98d.jpg",
+        "afb5998e5c4845fb5c54caf235ee23c64e6ca355014cc1a179a816b0": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/afb5998e5c4845fb5c54caf235ee23c64e6ca355014cc1a179a816b0.jpg",
+        "3602c462715cd34d498ea7d125385c11e0a94d54b527efae69d23543": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/3602c462715cd34d498ea7d125385c11e0a94d54b527efae69d23543.jpg"
+      },
+      "homechecker": {
+        "id": "0d15b701-3ef5-403a-ad1a-3795ffb93cba",
+        "firstName": "Ramon",
+        "lastName": "Colsa",
+        "email": "ramon.colsa@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "D"
+      },
+      "numberOfRooms": 3,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 224790,
+      "title": "Modern 1-bedroom apartment to rent in Upper Clapton",
+      "type": "apartment",
+      "price": {
+        "price": 1900,
+        "monthlyPrice": {
+          "type": "byMonth",
+          "minimumPrice": 1900,
+          "pricesByMonth": {
+            "jan": 1900,
+            "feb": 2000,
+            "mar": 2000,
+            "apr": 2100,
+            "may": 2200,
+            "jun": 2100,
+            "jul": 2000,
+            "aug": 2000,
+            "sep": 1900,
+            "oct": 1900,
+            "nov": 1900,
+            "dec": 2500
+          }
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1900,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-09-14"
+        },
+        {
+          "from": "2020-01-20",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Narford Rd, London E5 8RJ, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/hHXQOeyok2U",
+          "videoTranscription": "",
+          "videoId": "hHXQOeyok2U",
+          "name": "Modern 1-bedroom apartment to rent in Upper Clapton",
+          "description": "This modern 1-bedroom, 1-bathroom apartment is to rent on Narford Road in Upper Clapton. The bedroom is spacious and bright with a large window and double bed, and is a great space to get some rest. That is, if you can ever leave the stunning, combined kitchen and living room which is well-equipped with modern appliances.\n\nIf you're a bit of a shopaholic you can catch the bus to the nearby Tottenham Hale Retail Park and treat yourself to a spot of retail therapy. If you'd rather spend some time outside enjoying the summer weather, Hackney Downs park is just over a 10-minute walk away and The Paddock Community Nature Park is accessible by public transport.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/7c8815a467d79e223d025bec5deea09f2ae0d1af5ad07486c189a135.jpg",
+          "uploadDate": "2018-06-08"
+        }
+      ],
+      "floorplans": {
+        "5f823f418d8ab309eb33f8cef2840656747fb669cf6669961f73b241": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/5f823f418d8ab309eb33f8cef2840656747fb669cf6669961f73b241.jpg",
+        "0f24acf19cc518ce4ed76640c4892bda9a016cfc2f47423c2112049e": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/0f24acf19cc518ce4ed76640c4892bda9a016cfc2f47423c2112049e.jpg"
+      },
+      "homechecker": {
+        "id": "0d15b701-3ef5-403a-ad1a-3795ffb93cba",
+        "firstName": "Ramon",
+        "lastName": "Colsa",
+        "email": "ramon.colsa@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "D"
+      },
+      "numberOfRooms": 1,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 224599,
+      "title": "Furnished studio flat to rent in West Ham",
+      "type": "apartment",
+      "price": {
+        "price": 850,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 850,
+          "fixedPrice": 850
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 850,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-05-02"
+        },
+        {
+          "from": "2021-01-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Barking Rd, London E13, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/bM26OVgImr4",
+          "videoTranscription": "",
+          "videoId": "bM26OVgImr4",
+          "name": "Furnished studio flat to rent in West Ham",
+          "description": "This studio flat for rent in West Ham is furnished with a bunk bed with 2 single beds, a couch, and a kitchenette. The kitchenette is equipped with a microwave, 2-burner stove, and a mini refrigerator. For storage, you have a chest of drawers and a large standalone wardrobe. There is wood flooring, a small window, and an en-suite bathroom. \n\nIn West Ham by the Upton Park Underground Station, you are in a district of East London. On Barking Road, you are just a few minutes' walk to everything you may need from fast food to pubs to hardware stores. Be sure to take time and explore because the district is known for its food markets and small vintage shops.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/5be2c35a0a050449701e11624cf46344f92df1443b217e8d9da1b7f0.jpg",
+          "uploadDate": "2018-06-04"
+        }
+      ],
+      "floorplans": {
+        "c3de648dfc4761bd95ae92c2cf4b66a7c1a86b7b32836ee515afb937": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/c3de648dfc4761bd95ae92c2cf4b66a7c1a86b7b32836ee515afb937.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 1,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 224594,
+      "title": "Bright 1-bedroom flat to rent in Canning Town",
+      "type": "apartment",
+      "price": {
+        "price": 1050,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1050,
+          "fixedPrice": 1050
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1050,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-04-02"
+        },
+        {
+          "from": "2020-05-08",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "1 Morgan St",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/dWOGRnV4t6k",
+          "videoTranscription": "",
+          "videoId": "dWOGRnV4t6k",
+          "name": "Bright 1-bedroom flat to rent in Canning Town",
+          "description": "This 1-bedroom flat available for rent in Canning Town is perfect for 1 or 2 people. The flat has wood flooring throughout and windows that keep it sunny and fresh. There is a cozy open-plan kitchen and living room, fully furnished and with simple decor. Th bedroom also receives plenty of natural light and comes with a comfy double bed. \n\nIn East London, you are well-connected to the rest of the city by Underground. On Morgan Street, the area is quite residential, but you are just a few minutes' walk to Barking Road, lined with grocery stores, restaurants, pharmacies, and more.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/457757d610cb5fb51142af45346032cf62d3dc92e721662decf43b8d.jpg",
+          "uploadDate": "2018-06-04"
+        }
+      ],
+      "floorplans": {
+        "9f34e0cbdf2e7625812f4f4ba5dca94afb0e5490a7d6c05196a20b4e": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/9f34e0cbdf2e7625812f4f4ba5dca94afb0e5490a7d6c05196a20b4e.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 1,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 223573,
+      "title": "Gorgeous 1-bedroom flat to rent in Kensington & Chelsea",
+      "type": "apartment",
+      "price": {
+        "price": 2752,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 2752,
+          "fixedPrice": 2752
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 2752,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-05-23"
+        },
+        {
+          "from": "2020-03-19",
+          "to": "2020-04-26"
+        },
+        {
+          "from": "2020-10-09",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "A Ossington St, London W2 4LY, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/XDX8T4M5qTw",
+          "videoTranscription": "",
+          "videoId": "XDX8T4M5qTw",
+          "name": "Gorgeous 1-bedroom flat to rent in Kensington & Chelsea",
+          "description": "Want to live among London\u2019s rich and famous? If so, this gorgeous 1-bedroom flat is available to rent on Ossington Street in Kensington & Chelsea. On the first floor, this quaint apartment has been beautifully decorated in a modern, yet minimalist design. White walls and large windows make the property bright and inviting. Walking into the flat, you\u2019ll find a lovely sofa and armchair in the living space, which will come in handy when you have friends coming over for some tea. There is also a dining table and flatscreen TV. Right next to the living space, you\u2019ll encounter the fully equipped kitchen. It is hard to stumble upon a kitchen of this quality in London. With an oven, stove, microwave, dishwasher, coffeemaker, and a tea kettle, you will be ready to prepare delicious meals or bake some scrumptious desserts. Plenty of cabinet space is also available. We loved the tile floors. Moving into the bedroom, you will find a double bed with a nightstand. Plus, you\u2019ll have plenty of storage for clothes and other belongings with the standalone wardrobe and chest of drawers. Finally, the bathroom, with beautiful tile work, has a bath/shower, sink, and toilet. You will also find on the property a washing machine and dryer.\n\nIt does not get any better than living here. This neighbourhood is in the heart of London. Brush shoulders with the Royals as you will be a stone\u2019s throw away from the Kensington Palace and Gardens. Dream of starring in the next Julia Roberts and Hugh Grant film? Well, you are also close to Notting Hill, one of London\u2019s most beloved districts. Public transport is extremely accessible here and you\u2019ll find plenty of places to buy groceries, including the famous Portobello Market.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/11379f400007f44ed0db887b8a99dea5d76a5bebb36178555e3dc140.jpg",
+          "uploadDate": "2018-06-08"
+        }
+      ],
+      "floorplans": {
+        "8fa4ffd3b673cdfa0f982412b8bc312434b7d3508972072d0657cdb2": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/8fa4ffd3b673cdfa0f982412b8bc312434b7d3508972072d0657cdb2.jpg"
+      },
+      "homechecker": {
+        "id": "55f33b40-ca7c-4013-a820-4267d3dfb97e",
+        "firstName": "Theo",
+        "lastName": "Hewett (runner)",
+        "email": "theo.hewett@spotahome.com",
+        "profilePicture": "55f33b40-ca7c-4013-a820-4267d3dfb97e.jpg",
+        "cityId": "london",
+        "enabled": false,
+        "level": "D"
+      },
+      "numberOfRooms": 1,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    }
+  ],
+  "rooms": [
+    {
+      "id": 226456,
+      "title": "Double bed in Rooms to rent in fully furnished 4-bedroom apartment in Wapping",
+      "type": "room_shared_apt",
+      "price": {
+        "price": 683,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 683,
+          "fixedPrice": 683
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 683,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-09-02"
+        },
+        {
+          "from": "2025-01-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Prusom St, St Katharine's & Wapping, London E1W, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/lvmNDSZkw08",
+          "videoTranscription": "",
+          "videoId": "lvmNDSZkw08",
+          "name": "Double bed in Rooms to rent in fully furnished 4-bedroom apartment in Wapping",
+          "description": "There are rooms for rent in this fully furnished 4-bedroom apartment on Prusom Street, in Wapping. Tenants will share a fully equipped kitchen with an oven, microwave, and a rage of cooking utensils. There is also 1 bathroom with the bathtub/shower and toilet in separate rooms. \n\nThe flat is located a short walk from the Thames River, and only 3 minutes from Wapping Overground station. The lovely Wapping Woods is located nearby, and you will find a good selection of shops and restaurants within walking distance.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/e131800c69f3e1999e3ea0b370349c2dadc39256efe95aa5aa64299b.jpg",
+          "uploadDate": "2018-08-30"
+        },
+        {
+          "embedUrl": "https://youtu.be/1Yt8ahERoMg",
+          "videoTranscription": "",
+          "videoId": "1Yt8ahERoMg",
+          "name": "Double bed in Rooms to rent in fully furnished 4-bedroom apartment in Wapping",
+          "description": "There are rooms for rent in this fully furnished 4-bedroom apartment on Prusom Street, in Wapping. Tenants will share a fully equipped kitchen with an oven, microwave, and a rage of cooking utensils. There is also 1 bathroom with the bathtub/shower and toilet in separate rooms. \n\nThe flat is located a short walk from the Thames River, and only 3 minutes from Wapping Overground station. The lovely Wapping Woods is located nearby, and you will find a good selection of shops and restaurants within walking distance.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/e131800c69f3e1999e3ea0b370349c2dadc39256efe95aa5aa64299b.jpg",
+          "uploadDate": "2018-08-30"
+        },
+        {
+          "embedUrl": "https://youtu.be/u-f_2C3DOLg",
+          "videoTranscription": "",
+          "videoId": "u-f_2C3DOLg",
+          "name": "Double bed in Rooms to rent in fully furnished 4-bedroom apartment in Wapping",
+          "description": "There are rooms for rent in this fully furnished 4-bedroom apartment on Prusom Street, in Wapping. Tenants will share a fully equipped kitchen with an oven, microwave, and a rage of cooking utensils. There is also 1 bathroom with the bathtub/shower and toilet in separate rooms. \n\nThe flat is located a short walk from the Thames River, and only 3 minutes from Wapping Overground station. The lovely Wapping Woods is located nearby, and you will find a good selection of shops and restaurants within walking distance.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/e131800c69f3e1999e3ea0b370349c2dadc39256efe95aa5aa64299b.jpg",
+          "uploadDate": "2018-08-30"
+        }
+      ],
+      "floorplans": [],
+      "homechecker": {
+        "id": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef",
+        "firstName": "Kamil",
+        "email": "kamil@collaborators.spotahome.com",
+        "profilePicture": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 2,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 226251,
+      "title": "Double bed in Rooms to rent in large 5-bedroom flat near Stepney Green Park in Tower Hamlets",
+      "type": "room_shared_apt",
+      "price": {
+        "price": 900,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 900,
+          "fixedPrice": 900
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 900,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-10-01"
+        },
+        {
+          "from": "2020-02-06",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Stepney Green, London E1 3JJ, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/2wH6Ub7kieQ",
+          "videoTranscription": "",
+          "videoId": "2wH6Ub7kieQ",
+          "name": "Double bed in Rooms to rent in large 5-bedroom flat near Stepney Green Park in Tower Hamlets",
+          "description": "This large 5-bedroom flat with rooms to rent on Stepney Green is on the 2nd floor. The flat has two floors. It opens into an entrance hall where you\u2019ll find a toilet room. There is another toilet room as well as a bathroom, which has a tub, on the other floor. The hall leads to a fairly large kitchen. This is the only common space. It has ample cupboards and modern appliances. It\u2019s also fully equipped and includes a dining table where you can eat and socialize.\n\nYour new home is located in the Tower Hamlets. You\u2019re located on the edge of Stepney Green Park and only 15 minutes away from Mile End Park Leisure Centre and Stadium. Queen Mary University of London is the closest school to your new home. However, you can also walk to Coventry University within a half hour. Your immediate neighborhood is largely residential. However, 10 minutes north of your new home are grocery stores, bars, and restaurants.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/2edc7df69225a100955818a4142f0a4abcc30f803c1a53caef0d3b87.jpg",
+          "uploadDate": "2018-06-12"
+        },
+        {
+          "embedUrl": "https://youtu.be/hxI-wXqyc0M",
+          "videoTranscription": "",
+          "videoId": "hxI-wXqyc0M",
+          "name": "Double bed in Rooms to rent in large 5-bedroom flat near Stepney Green Park in Tower Hamlets",
+          "description": "This large 5-bedroom flat with rooms to rent on Stepney Green is on the 2nd floor. The flat has two floors. It opens into an entrance hall where you\u2019ll find a toilet room. There is another toilet room as well as a bathroom, which has a tub, on the other floor. The hall leads to a fairly large kitchen. This is the only common space. It has ample cupboards and modern appliances. It\u2019s also fully equipped and includes a dining table where you can eat and socialize.\n\nYour new home is located in the Tower Hamlets. You\u2019re located on the edge of Stepney Green Park and only 15 minutes away from Mile End Park Leisure Centre and Stadium. Queen Mary University of London is the closest school to your new home. However, you can also walk to Coventry University within a half hour. Your immediate neighborhood is largely residential. However, 10 minutes north of your new home are grocery stores, bars, and restaurants.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/2edc7df69225a100955818a4142f0a4abcc30f803c1a53caef0d3b87.jpg",
+          "uploadDate": "2018-06-12"
+        }
+      ],
+      "floorplans": [],
+      "homechecker": {
+        "id": "f968366d-f31b-46c4-b291-bc667178911a",
+        "firstName": "Ike",
+        "lastName": "Ukachi",
+        "email": "ike.ukachi@collaborators.spotahome.com",
+        "profilePicture": "f968366d-f31b-46c4-b291-bc667178911a.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 2,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 226240,
+      "title": "Double bed in Rooms to rent in quiet 5-bedroom flat near Queen Mary University in Tower Hamlets",
+      "type": "room_shared_apt",
+      "price": {
+        "price": 883,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 883,
+          "fixedPrice": 883
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 883,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-06-29"
+        },
+        {
+          "from": "2020-03-15",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Harford St, London E1 4PQ, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/Emi2Jhz9X-w",
+          "videoTranscription": "",
+          "videoId": "Emi2Jhz9X-w",
+          "name": "Double bed in Rooms to rent in quiet 5-bedroom flat near Queen Mary University in Tower Hamlets",
+          "description": "This 5-bedroom flat with rooms to rent on Harford Street is on the 2nd floor. It\u2019s an attractive brick building on a quiet residential street. The front door opens into a short hall where you\u2019ll find a toilet room. The bathroom, which has a tub, is around the corner. The only shared common area is the kitchen. It\u2019s a galley-style kitchen, which is long, but not very wide. It has modern cabinets, ample counter space, as well as a sunny window and a washing machine.  \n\nYour Tower Hamlets flat is located just a couple of minutes away from Mile End Park and the Queen Mary University of London. However, the area is well connected and you can easily take transit to other schools in the neighborhood. There are lots of pubs and meeting spots nearby, and you\u2019ll find a number of restaurants, as well as a supermarket, close to the Stepney Green Underground station.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/f0f35712c64797c282528548819fcfeaa456dda3e2cc761d169df391.jpg",
+          "uploadDate": "2018-06-12"
+        }
+      ],
+      "floorplans": [],
+      "homechecker": {
+        "id": "f968366d-f31b-46c4-b291-bc667178911a",
+        "firstName": "Ike",
+        "lastName": "Ukachi",
+        "email": "ike.ukachi@collaborators.spotahome.com",
+        "profilePicture": "f968366d-f31b-46c4-b291-bc667178911a.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 2,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 225508,
+      "title": "Double bed in Rooms to rent in furnished 4-bedroom apartment in Tower Hamlets",
+      "type": "room_shared_apt",
+      "price": {
+        "price": 928,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 928,
+          "fixedPrice": 928
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 928,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-07-05"
+        },
+        {
+          "from": "2025-01-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Brownfield St, Poplar, London E14 6ND, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/7jepsPxLyJI",
+          "videoTranscription": "",
+          "videoId": "7jepsPxLyJI",
+          "name": "Double bed in Rooms to rent in furnished 4-bedroom apartment in Tower Hamlets",
+          "description": "There are rooms available to rent in this furnished 4-bedroom apartment on Brownfield Street, Tower Hamlets. This property offers a fully equipped kitchen with an oven and washing machine. The shared bathroom offers a bathtub and shower, with a separate toilet downstairs. There is also heating throughout this apartment. \n\nLocated in the Tower Hamlets area, this property is just a 10-minute walk from Canary Wharf, which offers a huge range of shops and restaurants, as well as an ice rink, cinema and gyms. The heart of London and everything that it has to offer is about 25-minutes away by bus or the DLR line. The is also a supermarket and pharmacy within a 3-minute walk of this apartment.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/2bb7055c7cb069355842866e8898c448da18b248f054d5f11dd28bb4.jpg",
+          "uploadDate": "2018-06-07"
+        }
+      ],
+      "floorplans": [],
+      "homechecker": {
+        "id": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef",
+        "firstName": "Kamil",
+        "email": "kamil@collaborators.spotahome.com",
+        "profilePicture": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "numberOfRooms": 1,
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    }
+  ],
+  "studios": [
+    {
+      "id": 156873,
+      "title": "Independent studio apartment to rent in Stratford",
+      "type": "studio",
+      "price": {
+        "price": 1000,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1000,
+          "fixedPrice": 1000
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1000,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-10-09"
+        },
+        {
+          "from": "2020-07-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Pond Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/Vu__472LUUY",
+          "videoTranscription": "",
+          "videoId": "Vu__472LUUY",
+          "name": "Independent studio apartment to rent in Stratford",
+          "description": "This independent studio apartment is located on Pond Road in residential Stratford. The 18\u200am\u00b2 space has a functional kitchen and a generous bathroom, as well as a comfortable double bed and city views.\n\nStratford is ideal for those who enjoy a quiet residential area to call home. This apartment is well located, close to the Abbey Road DLR, as well as cultural icon Abbey Road and Stratford park, so you can go exploring easily in this neighbourhood.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/3a331ef6d027ef3f0d90ab84a0ba84288c2aee1fc026b15c1dcec6df.jpg",
+          "uploadDate": "2018-01-20"
+        }
+      ],
+      "floorplans": {
+        "d9d0a759e920b33ea0b17e61a650f01546523fbfd5ac42fd9007247d": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/d9d0a759e920b33ea0b17e61a650f01546523fbfd5ac42fd9007247d.jpg"
+      },
+      "homechecker": {
+        "id": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef",
+        "firstName": "Kamil",
+        "email": "kamil@collaborators.spotahome.com",
+        "profilePicture": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 152589,
+      "title": "Sunny studio flat to rent close to Mile End Park in Tower Hamlets",
+      "type": "studio",
+      "price": {
+        "price": 1250,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1250,
+          "fixedPrice": 1250
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1250,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-12-17"
+        },
+        {
+          "from": "2020-09-26",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Burdett Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/6Av82B9l8JE",
+          "videoTranscription": "",
+          "videoId": "6Av82B9l8JE",
+          "name": "Sunny studio flat to rent close to Mile End Park in Tower Hamlets",
+          "description": "This minimalist studio flat on Burdett Road is located on the top floor of an older building, under a mansard roof, which has a lot of character. Of course, the older building means there isn\u2019t an elevator, so you\u2019ll get all the exercise you need without joining the gym! The entrance hall divides the studio into two parts. On one side is the modern bathroom, which has a bathtub, and through which you can access a spacious terrace. To the other side of the hall is the living space. It has 2 glass doors that open to a balcony overlooking the street. It\u2019s a fabulous space and very minimalist. The kitchen isn\u2019t equipped, but has all the major appliances. The rest of the room is furnished with a bed and a small desk. \n\nIn east London, your studio flat in Tower Hamlets is located right on the edge of Mile End Park. This is a sprawling space with paths to stroll or jog. The park also has lots of activities to keep you busy. There is a climbing wall, a karting track, leisure center and an outdoor stadium. You can cut through the park and arrive at Queen Mary University in 10 minutes. Mideastern cuisine is served up at multiple restaurants along your street, and there are plenty of bars and pubs closer to the school. You can pick up every day groceries at the Nica Local. It\u2019s beside the post office just 3 minutes away.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/9b1514c098dbac771c544dc8ec8dd51da6121cac35e816e71fb691bf.jpg",
+          "uploadDate": "2017-12-14"
+        },
+        {
+          "embedUrl": "https://youtu.be/tP0pA4AX2WM",
+          "videoTranscription": "",
+          "videoId": "tP0pA4AX2WM",
+          "name": "Sunny studio flat to rent close to Mile End Park in Tower Hamlets",
+          "description": "This minimalist studio flat on Burdett Road is located on the top floor of an older building, under a mansard roof, which has a lot of character. Of course, the older building means there isn\u2019t an elevator, so you\u2019ll get all the exercise you need without joining the gym! The entrance hall divides the studio into two parts. On one side is the modern bathroom, which has a bathtub, and through which you can access a spacious terrace. To the other side of the hall is the living space. It has 2 glass doors that open to a balcony overlooking the street. It\u2019s a fabulous space and very minimalist. The kitchen isn\u2019t equipped, but has all the major appliances. The rest of the room is furnished with a bed and a small desk. \n\nIn east London, your studio flat in Tower Hamlets is located right on the edge of Mile End Park. This is a sprawling space with paths to stroll or jog. The park also has lots of activities to keep you busy. There is a climbing wall, a karting track, leisure center and an outdoor stadium. You can cut through the park and arrive at Queen Mary University in 10 minutes. Mideastern cuisine is served up at multiple restaurants along your street, and there are plenty of bars and pubs closer to the school. You can pick up every day groceries at the Nica Local. It\u2019s beside the post office just 3 minutes away.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/9b1514c098dbac771c544dc8ec8dd51da6121cac35e816e71fb691bf.jpg",
+          "uploadDate": "2017-12-14"
+        }
+      ],
+      "floorplans": {
+        "daea3de79848d4b2fa15418286ca579532b931151178d3a8625480f8": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/daea3de79848d4b2fa15418286ca579532b931151178d3a8625480f8.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 219990,
+      "title": "Cosy studio apartment for rent in Kensington and Chelsea",
+      "type": "studio",
+      "price": {
+        "price": 1213,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1213,
+          "fixedPrice": 1213
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1213,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-04-28"
+        },
+        {
+          "from": "2019-07-19",
+          "to": "2019-09-19"
+        },
+        {
+          "from": "2020-03-18",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "West Cromwell Rd",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/FnBX-QakL24",
+          "videoTranscription": "",
+          "videoId": "FnBX-QakL24",
+          "name": "Cosy studio apartment for rent in Kensington and Chelsea",
+          "description": "This cosy studio apartment is for rent on W Cromwell Rd in Kensington. It comes with plenty of storage for your convenience, as well as various modern appliances such as an oven, microwave and TV. For a breath of fresh air, the common garden is an ideal spot for relaxing. \n\nThis apartment is located just a short walk from transportation and amenities such as the supermarket. It is close to several restaurants and little parks like the Courtfield Gardens (West). For a bit of nightlife fun, the Nell's Jazz and Blues club is just around the corner!",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/ffdb02a7af78bed780163534f5cacd07dcdb6a9dad314714e2550c10.jpg",
+          "uploadDate": "2018-05-14"
+        }
+      ],
+      "floorplans": {
+        "3e53c1ae2bd40ed573bf0312278c7d82d58f39a424c7807bcd9d5ee5": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/3e53c1ae2bd40ed573bf0312278c7d82d58f39a424c7807bcd9d5ee5.jpg"
+      },
+      "homechecker": {
+        "id": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef",
+        "firstName": "Kamil",
+        "email": "kamil@collaborators.spotahome.com",
+        "profilePicture": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 208194,
+      "title": "Snug studio flat to rent close to Holland Park in Hammersmith",
+      "type": "studio",
+      "price": {
+        "price": 930,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 930,
+          "fixedPrice": 930
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 930,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-02-28"
+        },
+        {
+          "from": "2021-01-02",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Auriol Rd, Hammersmith, London W14 0SR, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/6u_AZMXTTi8",
+          "videoTranscription": "",
+          "videoId": "6u_AZMXTTi8",
+          "name": "Snug studio flat to rent close to Holland Park in Hammersmith",
+          "description": "This 1st floor studio flat for rent on Auriol Road has a fairly large window that overlooks the patio garden. The space is a bit tight, but perfect for one or two people. At the front door, you\u2019ll find areas to put your shoes and hang your coats or other items. Just to the right of the door is the bathroom, which also has a window and a shower stall. The open-concept flat has a wood floor and is furnished with a bed that has drawers underneath. The bed can serve as a sofa or a single bed, and it can be pulled out to a double, too. On the opposite side of the room is the one-wall kitchen. It\u2019s not fully equipped, but it\u2019s ready to go when you are!\n\nYour new home is located in the artsy neighborhood of Hammersmith. Riverside Studios is less than a 20-minute walk from your apartment. Lyric Hammersmith Theater and Eventim Apollo concert hall can both be reached within 15 minutes. There are plenty of other things to do here, though. You can join the PureGym, for example. You can also head to the nearby Holland Park for a stroll, or visit the Design Museum. Grocery items can be picked up at the Tesco Express around the corner. There are also several restaurants in the area for when you feel like dining out.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/1a32658e6e599b51532a78d71f8e7de30cc69f4392bb16452d499fe2.jpg",
+          "uploadDate": "2018-03-12"
+        }
+      ],
+      "floorplans": {
+        "a52b4caa96a3aec61b5546d1c9c976e386ad67d4f4c7f6780fc072b6": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/a52b4caa96a3aec61b5546d1c9c976e386ad67d4f4c7f6780fc072b6.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 220788,
+      "title": "Sunny studio apartment to rent in Hammersmith & Fulham",
+      "type": "studio",
+      "price": {
+        "price": 1192,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1192,
+          "fixedPrice": 1192
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1192,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-04-28"
+        },
+        {
+          "from": "2020-05-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Fulham Palace Rd, Hammersmith, London W6 9HH, UK",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/HdNp2wn3eDE",
+          "videoTranscription": "",
+          "videoId": "HdNp2wn3eDE",
+          "name": "Sunny studio apartment to rent in Hammersmith & Fulham",
+          "description": "This sunny studio apartment on Fulham Palace Road in Hammersmith & Fulham is fully furnished. This property comes with a fully equipped kitchen with a stylish backsplash, complete with a kettle, toaster, and a small TV. The bathroom has a standing shower and a wide sink.\n\nThe apartment is located near a large hospital and a park, which makes a nice spot for a stroll. Several cafes, restaurants, and bars are in the area, and the nearest tube station is a 7-minute walk away. The nearest grocery store is 4 minutes away if you need to pick up some milk and eggs.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/d22051e521982d8ed8845e4f5e9da38f4dd5762351d469206a052655.jpg",
+          "uploadDate": "2018-05-18"
+        }
+      ],
+      "floorplans": {
+        "385635026a9ad2b0d9d62466626abaf1676c2afd4dba13f0062e91c9": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/385635026a9ad2b0d9d62466626abaf1676c2afd4dba13f0062e91c9.jpg"
+      },
+      "homechecker": {
+        "id": "f968366d-f31b-46c4-b291-bc667178911a",
+        "firstName": "Ike",
+        "lastName": "Ukachi",
+        "email": "ike.ukachi@collaborators.spotahome.com",
+        "profilePicture": "f968366d-f31b-46c4-b291-bc667178911a.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 219991,
+      "title": "Comfortable studio apartment for rent in Kensington",
+      "type": "studio",
+      "price": {
+        "price": 1365,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1365,
+          "fixedPrice": 1365
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1365,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-07-31"
+        },
+        {
+          "from": "2020-06-02",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "West Cromwell Rd",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/WDJf-Wb_LyM",
+          "videoTranscription": "",
+          "videoId": "WDJf-Wb_LyM",
+          "name": "Comfortable studio apartment for rent in Kensington",
+          "description": "This comfortable studio apartment is located on West Cromwell Rd in Kensington. The cosy studio has a modern kitchenette and a functional bathroom shared with another resident in the apartment building. It also has plenty of storage space, is heated, and has a double bed. \n\nKensington gives you the best of both worlds, as it's a small area with lots to offer. This studio is close to the Earl's Court Underground station and a variety of tasty restaurants and other useful amenities.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/916324192a9df3d44a9a786242f5254bbec8a20089b8c3c065592cf5.jpg",
+          "uploadDate": "2018-05-14"
+        }
+      ],
+      "floorplans": {
+        "7ba0fa1de15b9c7efedff9321dd1c569505624a33b22515fa04f68dc": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/7ba0fa1de15b9c7efedff9321dd1c569505624a33b22515fa04f68dc.jpg"
+      },
+      "homechecker": {
+        "id": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef",
+        "firstName": "Kamil",
+        "email": "kamil@collaborators.spotahome.com",
+        "profilePicture": "97f501d4-0e1c-4b30-8b17-cb9ef54cf3ef.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 152780,
+      "title": "Bright studio apartment to rent in West Kensington, Travelcard Zone 2",
+      "type": "studio",
+      "price": {
+        "price": 1365,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1365,
+          "fixedPrice": 1365
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1365,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-07-01"
+        },
+        {
+          "from": "2020-06-21",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Fairholme Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/vGf-ygoMTWw",
+          "videoTranscription": "",
+          "videoId": "vGf-ygoMTWw",
+          "name": "Bright studio apartment to rent in West Kensington, Travelcard Zone 2",
+          "description": "This bright studio apartment on Fairholme Road, in West Kensington, covers an area of 20.37\u200am\u00b2, spreading over 2 levels. The property has a beautifully tiled bathroom, double bed, and a modern kitchen with all you need to cook. \n\nThis well-connected residential area is home to the beautiful Normand Park and The Queens Club, which hosts an international tennis tournament once a year. You can access the Underground nearby, and you will find all the essential amenities in the streets surrounding the flat.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/50e8c085fb6778e676f0815d84d74801190eecee927e53c33521aff3.jpg",
+          "uploadDate": "2017-12-06"
+        }
+      ],
+      "floorplans": {
+        "63ac938d21eebf00a75c7d806c0468905981aa23ba4f3db860bd7922": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/63ac938d21eebf00a75c7d806c0468905981aa23ba4f3db860bd7922.jpg",
+        "9486bea29c53d61067d5dd9cf96099eccf56aa2bbe3cce8c25b30a04": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/9486bea29c53d61067d5dd9cf96099eccf56aa2bbe3cce8c25b30a04.jpg"
+      },
+      "homechecker": {
+        "id": "f968366d-f31b-46c4-b291-bc667178911a",
+        "firstName": "Ike",
+        "lastName": "Ukachi",
+        "email": "ike.ukachi@collaborators.spotahome.com",
+        "profilePicture": "f968366d-f31b-46c4-b291-bc667178911a.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 152723,
+      "title": "Furnished studio apartment to rent in Earl's Court, fare zones 1 and 2",
+      "type": "studio",
+      "price": {
+        "price": 1365,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1365,
+          "fixedPrice": 1365
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1365,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-06-30"
+        },
+        {
+          "from": "2020-09-16",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "West Cromwell Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/2PzJkLJHyH0",
+          "videoTranscription": "",
+          "videoId": "2PzJkLJHyH0",
+          "name": "Furnished studio apartment to rent in Earl's Court, fare zones 1 and 2",
+          "description": "This furnished studio apartment on West Cromwell Road, in Earl's Court, comes equipped with central heating and covers an area of 12\u200am\u00b2. This flat is compact but can accommodate a single person or a couple, furnished with a double bed. There is also a private bathroom and kitchen with all the essentials.\n\nThe apartment is centrally located, just 7 minutes from Earl's Court and surrounded by shops, restaurants and cafes. You can walk to Hyde Park and Olympia London in 20 minutes.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/973e64312620e906bb828491f0d3b55e927c256535f87ec68bedbf46.jpg",
+          "uploadDate": "2017-12-06"
+        }
+      ],
+      "floorplans": {
+        "a2f3ae91caf80d683d1f23566e1749f46f4f44e23bbe78d6eae1b2fc": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/a2f3ae91caf80d683d1f23566e1749f46f4f44e23bbe78d6eae1b2fc.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 148775,
+      "title": "Chic studio apartment to rent in the City of London",
+      "type": "studio",
+      "price": {
+        "price": 2400,
+        "monthlyPrice": {
+          "type": "byMonth",
+          "minimumPrice": 2400,
+          "pricesByMonth": {
+            "jan": 3000,
+            "feb": 2400,
+            "mar": 2400,
+            "apr": 3000,
+            "may": 3550,
+            "jun": 4550,
+            "jul": 4800,
+            "aug": 2700,
+            "sep": 4500,
+            "oct": 4500,
+            "nov": 3500,
+            "dec": 3000
+          }
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 2400,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-10-11"
+        },
+        {
+          "from": "2019-02-06",
+          "to": "2019-05-31"
+        },
+        {
+          "from": "2019-06-23",
+          "to": "2019-08-31"
+        },
+        {
+          "from": "2019-09-24",
+          "to": "2019-12-02"
+        },
+        {
+          "from": "2019-12-06",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Fleet Street",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/13GUmi-t63Y",
+          "videoTranscription": "",
+          "videoId": "13GUmi-t63Y",
+          "name": "Chic studio apartment to rent in the City of London",
+          "description": "**The chic in the city**\n\n_Because I want to live in modern comfort, close to all the action._\n\n**Will I like it here?**\n\nWe think so.\n\nLooking for a modern base to call your own. Kick your London experience off in style with this amazing studio apartment.\n\n**Really? Tell me more...**\n\nYou will love the chic decor. This stunning studio has a crisp white colour scheme, polished wooden floors, trendy art adorning the walls, modern lighting, and is fashionably furnished throughout. Press play on your favorite Netflix show and lounge the night away on the comfortable white sofa.\n\nWe think this apartment is ideal for an on-the-go couple looking for a location to match their busy lifestyle. The apartment is located in the City of London, which means you are very central. This is an excellent place to base yourself if you work in the heart of London, or if you simply want to soak up everything this wonderful city has on offer.\n\n**Your top 3 reasons to rent here:**\n\n- The apartment has modern furnishings.\n- The River Thames is just a short stroll away.\n- The crisp, modern decor. Simple but effective.\n\n**But you need to know this\u2026**\n\n- The kitchen is only equipped with a half-refrigerator \u2013 be smart with the food shop.\n\n**Your Home-checker, Gabriel, said:**\n\n_\u201cI loved this property. It\u2019s a modern apartment in a great location. You\u2019re right in the heart of central London.\u201d_\n\n**Help me make up my mind\u2026**\n\nThis is a chic 2nd floor, studio apartment on Fleet Street, London. It boasts fashionable furnishings, a crisp white colour scheme, and has trendy art adorning the walls.\n\nThis property is ideal for an on-the-go couple. You\u2019ll be in a central and lively neighborhood, with shops, restaurants, and iconic spots like The Thames River close by.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/b945865628396c9d511a670bedadf1ee056bab8b712261eed85a0904.jpg",
+          "uploadDate": "2017-10-27"
+        },
+        {
+          "embedUrl": "https://youtu.be/gyp5z0mIdUg",
+          "videoTranscription": "",
+          "videoId": "gyp5z0mIdUg",
+          "name": "Chic studio apartment to rent in the City of London",
+          "description": "**The chic in the city**\n\n_Because I want to live in modern comfort, close to all the action._\n\n**Will I like it here?**\n\nWe think so.\n\nLooking for a modern base to call your own. Kick your London experience off in style with this amazing studio apartment.\n\n**Really? Tell me more...**\n\nYou will love the chic decor. This stunning studio has a crisp white colour scheme, polished wooden floors, trendy art adorning the walls, modern lighting, and is fashionably furnished throughout. Press play on your favorite Netflix show and lounge the night away on the comfortable white sofa.\n\nWe think this apartment is ideal for an on-the-go couple looking for a location to match their busy lifestyle. The apartment is located in the City of London, which means you are very central. This is an excellent place to base yourself if you work in the heart of London, or if you simply want to soak up everything this wonderful city has on offer.\n\n**Your top 3 reasons to rent here:**\n\n- The apartment has modern furnishings.\n- The River Thames is just a short stroll away.\n- The crisp, modern decor. Simple but effective.\n\n**But you need to know this\u2026**\n\n- The kitchen is only equipped with a half-refrigerator \u2013 be smart with the food shop.\n\n**Your Home-checker, Gabriel, said:**\n\n_\u201cI loved this property. It\u2019s a modern apartment in a great location. You\u2019re right in the heart of central London.\u201d_\n\n**Help me make up my mind\u2026**\n\nThis is a chic 2nd floor, studio apartment on Fleet Street, London. It boasts fashionable furnishings, a crisp white colour scheme, and has trendy art adorning the walls.\n\nThis property is ideal for an on-the-go couple. You\u2019ll be in a central and lively neighborhood, with shops, restaurants, and iconic spots like The Thames River close by.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/b945865628396c9d511a670bedadf1ee056bab8b712261eed85a0904.jpg",
+          "uploadDate": "2017-10-27"
+        }
+      ],
+      "floorplans": {
+        "aab90214254ce0ef864023d60b63347a42bc90e32460719053f4cf7a": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/aab90214254ce0ef864023d60b63347a42bc90e32460719053f4cf7a.jpg",
+        "45e2362a3f2111f2f6471f77a06bf095bf71c4056e319dcfa57ecf34": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/45e2362a3f2111f2f6471f77a06bf095bf71c4056e319dcfa57ecf34.jpg"
+      },
+      "homechecker": {
+        "id": "55f33b40-ca7c-4013-a820-4267d3dfb97e",
+        "firstName": "Theo",
+        "lastName": "Hewett (runner)",
+        "email": "theo.hewett@spotahome.com",
+        "profilePicture": "55f33b40-ca7c-4013-a820-4267d3dfb97e.jpg",
+        "cityId": "london",
+        "enabled": false,
+        "level": "D"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 152722,
+      "title": "Studio apartment with central heating to rent in Earl's Court, fare zones 1 and 2",
+      "type": "studio",
+      "price": {
+        "price": 1517,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1517,
+          "fixedPrice": 1517
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1517,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-04-28"
+        },
+        {
+          "from": "2019-07-15",
+          "to": "2019-09-23"
+        },
+        {
+          "from": "2020-09-24",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "West Cromwell Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/1rSG5SRWbKc",
+          "videoTranscription": "",
+          "videoId": "1rSG5SRWbKc",
+          "name": "Studio apartment with central heating to rent in Earl's Court, fare zones 1 and 2",
+          "description": "This studio apartment on West Cromwell Road, in Earl's Court, covers an area of 12\u200am\u00b2 and comes equipped with central heating. The fully furnished flat has a double bed, private bathroom, and kitchen with all the essentials to cook. \n\nThe apartment is located in a residential area in West London, 10 minutes away from the beautiful Holland Park and close to shops, restaurants, and supermarkets. The area is also well-connected by public transport, making it a convenient base to explore the city.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/e73fa41f1e95954405dc64945447260bd36c1e3e5ededa6875b2408f.jpg",
+          "uploadDate": "2017-12-06"
+        }
+      ],
+      "floorplans": {
+        "bbb846f3c9d2595e4f9da995822c370b1274ba23a1400005a52d00dc": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/bbb846f3c9d2595e4f9da995822c370b1274ba23a1400005a52d00dc.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 138971,
+      "title": "Bright and central studio apartment to rent in Pimlico.",
+      "type": "studio",
+      "price": {
+        "price": 1500,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1500,
+          "fixedPrice": 1500
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1500,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-04-28"
+        },
+        {
+          "from": "2020-02-01",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Gloucester Street",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/3KIhO3H4QYM",
+          "videoTranscription": "",
+          "videoId": "3KIhO3H4QYM",
+          "name": "Bright and central studio apartment to rent in Pimlico.",
+          "description": "This studio apartment is spacious and beautiful with a double bed. The bedroom area has a large window that goes all the way across one wall, which lets in lots of natural sunlight and really opens up the space. You have shelving units and a standalone wardrobe where you can store your belongings. \n\nThis is a great location to be at, with many famous landmarks and sites within walking distance. You can pick up your groceries at the Sainsbury's, which is only a few minutes away on foot. In 15 minutes you can walk to Ranelagh Gardens, and in less than 20 minutes walking you can reach sites like Buckingham Palace, the Queen's Gallery, the Royal Mews and Westminster Cathedral. You also have Victoria Station accessible on foot in less than 10 minutes.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/a2c05adf51a74918427751ec37faf02c512c75119291ea5d7b30ce52.jpg",
+          "uploadDate": "2017-08-03"
+        }
+      ],
+      "floorplans": {
+        "6a4cf2743d3bbdb270bcdcbdcc29e5de5bceec4419a94346f7570308": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/6a4cf2743d3bbdb270bcdcbdcc29e5de5bceec4419a94346f7570308.jpg"
+      },
+      "homechecker": {
+        "id": "d86d8570-d875-4c1f-8d8c-4bf1427f0ec5",
+        "firstName": "Jonatan",
+        "lastName": "Martin Perez",
+        "email": "jonatanmartin@collaborators.spotahome.com",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 152699,
+      "title": "Studio with balcony to rent in Earl's Court",
+      "type": "studio",
+      "price": {
+        "price": 1603,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1603,
+          "fixedPrice": 1603
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1603,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2019-04-28"
+        },
+        {
+          "from": "2020-07-04",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Penywern Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/9-rhLss98uI",
+          "videoTranscription": "",
+          "videoId": "9-rhLss98uI",
+          "name": "Studio with balcony to rent in Earl's Court",
+          "description": "Located on a picturesque street in Earl's Court is this 34\u200am\u00b2 studio apartment for rent, perfect for an individual or couple. The studio makes the most of the space available with the double bed located on a mezzanine floor. With access to a private balcony, the apartment feels bigger and receives plenty of natural light and fresh air. The main room has a small living room area with a couch and television, and a fully equipped kitchen corner with a breakfast bar. \n\nEarl's Court is a residential area in the larger Kensington borough which is known for it's charming streets and luxury properties. On Penywern Road, you are on a mostly residential street with an antique shop and grocery store just minutes away. For shops, restaurants, and more, you can walk over to Earls Court Road , where you will also find the Underground.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/4ee4ed7d17ce7107b3587e7cfbcdd060a0c937cb736fd015659bb6b3.jpg",
+          "uploadDate": "2017-12-06"
+        }
+      ],
+      "floorplans": {
+        "20e50a67fecc041ebf8c7b8180b899e914192e5adc23fa2cdfa651e4": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/20e50a67fecc041ebf8c7b8180b899e914192e5adc23fa2cdfa651e4.jpg",
+        "adc31391e8351ad1924b750be59028963677e3d0249c0be01096b4ec": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/adc31391e8351ad1924b750be59028963677e3d0249c0be01096b4ec.jpg"
+      },
+      "homechecker": {
+        "id": "f968366d-f31b-46c4-b291-bc667178911a",
+        "firstName": "Ike",
+        "lastName": "Ukachi",
+        "email": "ike.ukachi@collaborators.spotahome.com",
+        "profilePicture": "f968366d-f31b-46c4-b291-bc667178911a.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 139023,
+      "title": "Top-floor studio flat to rent with private bathroom in Kensington-Chelsea",
+      "type": "studio",
+      "price": {
+        "price": 1517,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1517,
+          "fixedPrice": 1517
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1517,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-10-09"
+        },
+        {
+          "from": "2020-04-11",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Penywern Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/Q4-53BGsRB0",
+          "videoTranscription": "",
+          "videoId": "Q4-53BGsRB0",
+          "name": "Top-floor studio flat to rent with private bathroom in Kensington-Chelsea",
+          "description": "This spacious studio flat in the top floor of a Victorian-style building on Penywern Road, in West Earl's Court, has everything you might need in a single space. Quite literally! The open-concept floor plan brings living, dining, sleeping and kitchen areas together to make the most out of the somewhat limited space, leaving only the modern private bathroom with shower hidden from view. A fully-equipped kitchen sits in one of the corners of the flat, with a stovetop, oven, microwave and a small fridge. On the opposite side of the room, a futon can be used as a sofa during the day or as a double bed at night.\n\nThe flat is located in the heart of the Royal Borough of Kensington and Chelsea, very close to the former site of the Earl's Court Exhibition Centre. There are plenty of coffee houses and restaurants nearby, and in less than 5 minutes you can be at Old Brompton Road or Earl's Court Road, conducting important research on which pub serves the best pint. It's worth noting that Stamford Bridge is only a 20-minute walk away, if you're a fan of the beautiful game or Chelsea FC in particular.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/822a42a551f7bc826bed78e05357682d0aac4194875f9406533a853b.jpg",
+          "uploadDate": "2017-08-05"
+        }
+      ],
+      "floorplans": {
+        "436c1976c281bc0fd64a7b69d781fef47ea9767a433c2b04924c12dd": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/436c1976c281bc0fd64a7b69d781fef47ea9767a433c2b04924c12dd.jpg"
+      },
+      "homechecker": {
+        "id": "55f33b40-ca7c-4013-a820-4267d3dfb97e",
+        "firstName": "Theo",
+        "lastName": "Hewett (runner)",
+        "email": "theo.hewett@spotahome.com",
+        "profilePicture": "55f33b40-ca7c-4013-a820-4267d3dfb97e.jpg",
+        "cityId": "london",
+        "enabled": false,
+        "level": "D"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 131310,
+      "title": "Studio apartment with central heating to rent in Earls Court, Travelcard Zones 1 and 2",
+      "type": "studio",
+      "price": {
+        "price": 1517,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1517,
+          "fixedPrice": 1517
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1517,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-10-09"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "Penywern Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/fWBXTD67OSA",
+          "videoTranscription": "",
+          "videoId": "fWBXTD67OSA",
+          "name": "Studio apartment with central heating to rent in Earls Court, Travelcard Zones 1 and 2",
+          "description": "This studio apartment in Earls Court is fully furnished and equipped with central heating and AC. The flat is small but nicely presented, and has a kitchen, bathroom, double bed, and a television \n\nThe apartment enjoys a convenient location, only 4 minutes from Earls Court station and within walking distance of shops, supermarkets and other amenities. Kensington Palace, Hyde Park, and other well-known attractions are located nearby.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/65f1a3463ae3d49ba27bda7ec7c1dd4048b948faae1e68a5e9e0c14e.jpg",
+          "uploadDate": "2017-06-13"
+        }
+      ],
+      "floorplans": {
+        "b43c773bbb196d97741360aab0eac05d49485e41a632d4272a2b3196": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/b43c773bbb196d97741360aab0eac05d49485e41a632d4272a2b3196.jpg"
+      },
+      "homechecker": {
+        "id": "55f33b40-ca7c-4013-a820-4267d3dfb97e",
+        "firstName": "Theo",
+        "lastName": "Hewett (runner)",
+        "email": "theo.hewett@spotahome.com",
+        "profilePicture": "55f33b40-ca7c-4013-a820-4267d3dfb97e.jpg",
+        "cityId": "london",
+        "enabled": false,
+        "level": "D"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    },
+    {
+      "id": 152697,
+      "title": "Charming studio flat to rent in Earl's Court, zones 1 and 2",
+      "type": "studio",
+      "price": {
+        "price": 1517,
+        "monthlyPrice": {
+          "type": "fixed",
+          "minimumPrice": 1517,
+          "fixedPrice": 1517
+        },
+        "currencyLabel": "GBP",
+        "currencySymbol": "\u00a3",
+        "reservationPrice": {
+          "price": 1517,
+          "currencyCode": "GBP",
+          "numberOfWeeks": null
+        }
+      },
+      "availabilities": [
+        {
+          "from": "1900-01-01",
+          "to": "2018-10-09"
+        },
+        {
+          "from": "2019-08-06",
+          "to": "2019-09-22"
+        },
+        {
+          "from": "2020-07-14",
+          "to": "2100-01-01"
+        }
+      ],
+      "city": "London",
+      "cityId": "london",
+      "address": "West Cromwell Road",
+      "videos": [
+        {
+          "embedUrl": "https://youtu.be/WnMK8s5reNc",
+          "videoTranscription": "",
+          "videoId": "WnMK8s5reNc",
+          "name": "Charming studio flat to rent in Earl's Court, zones 1 and 2",
+          "description": "This charming studio flat on West Cromwell Road, in Earl's Court, is nicely decorated and very cozy. The 22.67\u200am\u00b2 property is ideal for a single person or a couple, equipped with a double bed, private bathroom and a kitchen with all that is needed to cook. \n\nThis residential area in West London is very well-connected by public transport, making it a convenient base to explore the city. There are several nice parks to discover nearby, and you will find numerous shops, restaurants, and pubs within walking distance.",
+          "thumbnailUrl": "https://d1052pu3rm1xk9.cloudfront.net/smww_1600_verified_ur_15_50/5c09656d7ddf18a74521e1c3614180e8ffb8ef0066765a9e4425d770.jpg",
+          "uploadDate": "2017-12-06"
+        }
+      ],
+      "floorplans": {
+        "f0cd538843ac9aa02ee5a7403f4ce4d2f442414e1a57ace327b31f09": "https://d1052pu3rm1xk9.cloudfront.net/cropsw_170_579_verified_ur_6_50/f0cd538843ac9aa02ee5a7403f4ce4d2f442414e1a57ace327b31f09.jpg"
+      },
+      "homechecker": {
+        "id": "f968366d-f31b-46c4-b291-bc667178911a",
+        "firstName": "Ike",
+        "lastName": "Ukachi",
+        "email": "ike.ukachi@collaborators.spotahome.com",
+        "profilePicture": "f968366d-f31b-46c4-b291-bc667178911a.jpg",
+        "cityId": "london",
+        "enabled": true,
+        "level": "A"
+      },
+      "reaction": [],
+      "roomsTimeLine": { "roomsTimeLine": [] }
+    }
+  ]
+}
